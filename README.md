@@ -7,8 +7,9 @@ Steps:
 3) parameter tuning
 4) model evaluation
 
-1) Data preprocessing steps:
-EDA:1)Replacing Null values<br>
+1) Data preprocessing steps: <br>
+EDA:<br>
+    1)Replacing Null values<br>
     2)Attribute selection for categorical values based on mean aggregation and annova test<br>
     3)Handling Outliers (for numeric data)<br>
     4)Attribute selection for numeric data columns<br>
