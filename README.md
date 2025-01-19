@@ -24,9 +24,14 @@ EDA:1)Replacing Null values<br>
 (Could use gridsearchcv, but as the data is huge, as it will be computationally expensive)<br>
 
 4) Final model evaluation <br>
--> Random forest (mse)<t>     val_loss:0.115 <t>   test_loss:0.114 <br>
--> XGboost regressor (mse)<t> val_loss:0.127  <t>  test_loss:0.126 <br>
--> ANN (mse)<t>               val_loss:0.17   <t>  test_loss: 0.17 <br>
+
+____________________________________________________________________
+| Model                  | Validation Loss (MSE) | Test Loss (MSE) |
+|------------------------|-----------------------|-----------------|
+| Random Forest          | 0.115                 | 0.114           |
+| XGBoost Regressor      | 0.127                 | 0.126           |
+| ANN                    | 0.17                  | 0.17            |
+--------------------------------------------------------------------
 
 loom link video: https://www.loom.com/share/26fe23fe84c64902935db39fbde7e165?sid=f425f04d-0352-4571-90c3-46b5392a6391
 (The models are not explained clear in the demo video as the video recording time is only 5min)
