@@ -26,13 +26,13 @@ EDA:<br>
 
 4) Final model evaluation <br>
 
-____________________________________________________________________
-| Model                  | Validation Loss (MSE) | Test Loss (MSE) |
-|------------------------|-----------------------|-----------------|
-| Random Forest          | 0.115                 | 0.114           |
-| XGBoost Regressor      | 0.127                 | 0.126           |
-| ANN                    | 0.17                  | 0.17            |
---------------------------------------------------------------------
+___________________________________________________________________________________________
+| Model                  | Validation Loss (MSE) | Test Loss (MSE) | r2_score (val. data) |
+|------------------------|-----------------------|-----------------|----------------------|
+| Random Forest          | 0.115                 | 0.114           | 0.506                |
+| XGBoost Regressor      | 0.127                 | 0.126           | 0.51                 | 
+| ANN                    | 0.17                  | 0.17            |                      |
+-------------------------------------------------------------------------------------------
 
 loom link video: https://www.loom.com/share/26fe23fe84c64902935db39fbde7e165?sid=f425f04d-0352-4571-90c3-46b5392a6391
 (The models are not explained clear in the demo video as the video recording time is only 5min)
