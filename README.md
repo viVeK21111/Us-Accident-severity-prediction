@@ -48,5 +48,5 @@ where the accidents can happend like near the crowded places, No zebra cross are
 -> Accidents also can happen in forest areas where the animals sometimes suddently showup on the road<br>
 
 <br>
-<h2>Data<h2> 
+<h2>Data</h2> 
 Google drive: https://drive.google.com/drive/folders/1cbd5aGi2X7Pc4lqYeMxW4CIs_IvqDbSq?usp=sharing
