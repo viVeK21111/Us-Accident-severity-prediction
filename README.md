@@ -36,7 +36,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------
 
 loom link video: https://www.loom.com/share/26fe23fe84c64902935db39fbde7e165?sid=f425f04d-0352-4571-90c3-46b5392a6391
-(The models are not explained clear in the demo video as the video recording time is only 5min)
+(The models are not explained clearly in the demo video as the video recording time is only 5min)
 
 Research remcommendation:
 
@@ -46,3 +46,7 @@ where the accidents can happend like near the crowded places, No zebra cross are
 -> And it didn't include the snowfall, in some areas snow fall may contribute to the accident severity<br>
 -> and visiblity of road signs too, snow fall may block the signs sometimes<br>
 -> Accidents also can happen in forest areas where the animals sometimes suddently showup on the road<br>
+
+<br>
+### Data 
+Google drive: https://drive.google.com/drive/folders/1cbd5aGi2X7Pc4lqYeMxW4CIs_IvqDbSq?usp=sharing
