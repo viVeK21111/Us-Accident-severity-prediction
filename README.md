@@ -49,4 +49,4 @@ where the accidents can happend like near the crowded places, No zebra cross are
 
 <br>
 <h2>Data</h2> 
-Google drive: https://drive.google.com/drive/folders/1cbd5aGi2X7Pc4lqYeMxW4CIs_IvqDbSq?usp=sharing
+Link: https://drive.google.com/file/d/1zOvWbfUvE9J22FRnY1PfN1_MU24k-Rdo/view?usp=sharing 
